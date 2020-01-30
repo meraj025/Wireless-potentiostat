@@ -377,7 +377,7 @@ if __name__ == '__main__':
         app = QtGui.QApplication(sys.argv)
     main = Main()
     main.show()
-#    sys.exit(app.exec_())
+    sys.exit(app.exec_())
 ############################################################
     
 
