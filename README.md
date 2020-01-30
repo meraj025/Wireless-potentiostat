@@ -1,4 +1,4 @@
-# Wireless-potentiostat
+# Wireless configurable potentiostat
 Using Redbear Nano V2 and LMP91000 (TI) a wireless configurable and acquisition interface is designed, developed and tested.
 Repository Contents
 -------------------
