@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Tufts_University_logo.png</file>
+    <file>iitblogo.png</file>
+  </qresource>
+</RCC>
