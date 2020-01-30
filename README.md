@@ -3,5 +3,5 @@
 Repository Contents
 -------------------
 * **/Libraries** - Arduino library and example sketches.
-* **/Hardware** - All Eagle design files (.brd, .sch)
+* **/PCB** - All Eagle design files (.brd, .sch)
 * **/extras** - includes the datasheet
